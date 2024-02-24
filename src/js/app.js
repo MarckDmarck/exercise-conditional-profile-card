@@ -20,6 +20,7 @@ import "../style/index.css";
         role: null,
         country: null,
         city: null
+        Prueba
     }
  */
 function render(variables = {}) {
